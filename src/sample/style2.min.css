@@ -1,0 +1,2 @@
+.tabs{width:500px}.tabs ul{display:flex}.tabs ul li{line-height:45px;width:150px;border:1px solid #000;text-align:center;-webkit-user-select:none;-moz-user-select:none;user-select:none;cursor:pointer}.tabs ul li.on{background:pink}.tabs .con-box{width:100%;position:relative;margin-top:20px}.tabs .con-box article{padding:20px;background:#eee;height:250px}.tabs .con-box article h3{font-size:30px;margin-bottom:15px}.tabs .con-box article p{font-size:18px}
+/*# sourceMappingURL=style2.min.css.map */

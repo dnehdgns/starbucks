@@ -1,0 +1,64 @@
+.starbucks {
+  width: 1200px;
+  margin: auto;
+}
+.starbucks h1 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding: 20px 0;
+}
+.starbucks .menu {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.starbucks .menu li {
+  padding: 8px 30px;
+  font-size: 16px;
+  border: none;
+  background: #333;
+  color: #fff;
+  margin-right: 14px;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  border-radius: 25px;
+}
+.starbucks .menu li:last-child {
+  margin-right: 0;
+}
+.starbucks .menu li.on {
+  background: #046241;
+}
+.starbucks .list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+.starbucks .list li {
+  width: 350px;
+  margin-right: 20px;
+  margin-bottom: 25px;
+  border: 1px solid #999;
+  padding: 15px;
+}
+.starbucks .list li:nth-child(3n) {
+  margin-right: 0;
+}
+.starbucks .list li img {
+  width: 350px;
+}
+.starbucks .list li h3 {
+  font-size: 20px;
+  color: tomato;
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+.starbucks .list li p {
+  margin-bottom: 5px;
+}
+/*# sourceMappingURL=style.css.map */

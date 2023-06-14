@@ -1,0 +1,2 @@
+.wrap{width:600px;margin:auto}.wrap dl dt{width:100%;position:relative;line-height:45px;background:#999;text-indent:20px;border:1px solid #dcdcdc;cursor:pointer}.wrap dl dt.on{background:pink}.wrap dl dd{display:block;width:100%;overflow:hidden;transition:.4s;height:0}.wrap dl dd h3{font-size:20px;padding:15px}.wrap dl dd p{font-size:18px;padding:15px}.wrap dl dd.on{display:block;height:100px;background:beige}
+/*# sourceMappingURL=style.min.css.map */
